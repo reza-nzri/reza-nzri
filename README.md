@@ -20,9 +20,9 @@
 I'm a passionate **IT student** from **NRW, Germany**. I thrive on **solving real-world problems** using **artificial intelligence, data analytics, and automation**.  
 
 <details>
-  <summary><h3>🌟 <b>Founder & CEO of SapiensData</b></h3></summary>
+  <summary><h3>🌟 <b>Founder of SapiensData</b></h3></summary>
 
-🔹 **[SapiensData](https://github.com/SapiensData)** is an **open-source-driven platform** that processes, analyzes, and visualizes **various types of data** using **AI-powered insights**.  
+🔹 **[](https://github.com/)** is an **open-source-driven platform** that processes, analyzes, and visualizes **various types of data** using **AI-powered insights**.  
 
 ### **📊 What Does SapiensData Do?**
 SapiensData transforms **raw, chaotic data into structured, meaningful insights** by using **machine learning models and intelligent algorithms**.  
