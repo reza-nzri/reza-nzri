@@ -20,7 +20,7 @@
 I'm a passionate **IT student** from **NRW, Germany**. I thrive on **solving real-world problems** using **artificial intelligence, data analytics, and automation**.  
 
 <details>
-  <summary><h3>🌟 <b>Founder of SapiensData</b></h3></summary>
+  <summary><h3>🌟 <b>Founder of <a href="https://github.com/SapiensData">SapiensData</a></b></h3></summary>
 
 🔹 **[](https://github.com/)** is an **open-source-driven platform** that processes, analyzes, and visualizes **various types of data** using **AI-powered insights**.  
 
