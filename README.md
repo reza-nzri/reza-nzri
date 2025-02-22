@@ -83,6 +83,7 @@ SapiensData transforms **raw, chaotic data into structured, meaningful insights*
 
 ### **Backend**  
 <div align="center">  
+  <img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white">
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-025E8C.svg?logo=api&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
